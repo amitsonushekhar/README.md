@@ -135,6 +135,32 @@ d) Design and application should support the autoscaling feature
 7. DB choice can be specific to your component's architecture
 8. Support of multi-tenancy architecture
 
+Ideas(with friends, peers, etc. )
+
+CPC on 24-March-18
+• RPA(Robotics Process Automation): Bots are created. Orchestrator uses them. Ex: Reports generation, Timesheets, etc.
+• UI Path - Using the Service Now use case
+• Idea 1: Use of artificial intelligence for people. Application record all data. 
+• Idea 2: Presentation built during client visit using Artificial intelligence.
+
+CPC with VKS on 12-May-2018
+• Representation in Management meeting
+	• Aggression
+	• Example of not giving increment as a Master Stroke for Cap Gemini
+		○ Jolts for mid level managers
+		○ Trigger them to learn and brush up skills
+		○ Innovation and change in culture
+• Thought process of making money in 5 years at onsite and having a retirement plan
+
+CPC with VKS on 13-May-2018
+• About Money Management and Investment goals
+	• Done with Home loan settlement
+	• Have invested approximately 12 lakhs in PPF including husband and wife. This March interest came around 1 lakh. 
+    Yearly, plans to put 1 Lakh
+	• Have 3 mutual funds using ICICI direct for ICICI, SBI, Kotak
+	• Have a Term insurance for 75 lakhs
+	• LIC - Has Jeevan Anand and gives 45K per year
+	• Plans to invest in a premier property later as an investment
 
 
 
